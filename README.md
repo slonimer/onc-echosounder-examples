@@ -13,7 +13,7 @@ The goal is to make ONC bioacoustic data easier to explore by sharing:
 
 ## Why this repository exists
 
-ONC has collected long-term echosounder observations across multiple coastal sites, including deployments that generate very dense raw time series (often >1 GB/day). Raw data are powerful but can be expensive to download, process, and interpret.
+ONC has collected long-term echosounder observations across multiple coastal sites, including deployments that generate very dense raw time series (often >1 GB/day). Raw data are powerful but can be computationally expensive to download, process, and interpret.
 
 This repository lowers that barrier by sharing value-added examples and notebook workflows that are useful for:
 - interdisciplinary researchers,
