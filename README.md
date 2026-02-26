@@ -35,7 +35,7 @@ The included examples are meant to illustrate how derived products can support a
 - `FolgerDeep_Upwelling.ipynb`  
   Demonstrates workflow for Folger Passage, including scalar time-series interpretation and optional comparison with supplementary ADCP-derived signals.
 - `SaanichInlet_Overturning.ipynb`  
-  Demonstrates a workflow for Saanich Inlet, exploring temporal variability and notable events.
+  Demonstrates a workflow for Saanich Inlet, exploring temporal variability and notable events. This notebook includes pre-made plots so that it can be explored without the need to download python
 - `StraitOfGeorgia_SpringBloom.ipynb`  
   Demonstrates a workflow for the Strait of Georgia, for exploring temporal variability and the timing of the spring bloom.
 - `CM_ABC_examples/` and `CM_ABC_averaged_examples/`  
