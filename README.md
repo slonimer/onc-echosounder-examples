@@ -33,9 +33,11 @@ The included examples are meant to illustrate how derived products can support a
 ## Repository contents
 
 - `FolgerDeep_Upwelling.ipynb`  
-  Demonstrates a Folger Deep workflow, including scalar time-series interpretation and optional comparison with supplementary ADCP-derived signals.
+  Demonstrates workflow for Folger Passage, including scalar time-series interpretation and optional comparison with supplementary ADCP-derived signals.
 - `SaanichInlet_Overturning.ipynb`  
-  Demonstrates a Saanich Inlet workflow for exploring temporal variability and notable events.
+  Demonstrates a workflow for Saanich Inlet, exploring temporal variability and notable events.
+- `StraitOfGeorgia_SpringBloom.ipynb`  
+  Demonstrates a workflow for the Strait of Georgia, for exploring temporal variability and the timing of the spring bloom.
 - `CM_ABC_examples/` and `CM_ABC_averaged_examples/`  
   This is the complete set of CM and ABC data products.  These scalar metric `.mat` files can be used to find interesting features in the echosounder data, and are demonstrated in the notebooks.
   - `MVBS_examples/`  
